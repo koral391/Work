@@ -1,6 +1,7 @@
 name = 'Ahat'
 age = 26
-new_age = 27
+a = 2
+new_age = age + a
 is_student = age < new_age
 
 print('Name: ' + name)
